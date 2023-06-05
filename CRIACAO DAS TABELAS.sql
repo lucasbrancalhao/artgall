@@ -1,4 +1,4 @@
--- LUCAS DE OLIVEIRA BRANCALH√O	04/06/2023
+-- LUCAS DE OLIVEIRA BRANCALH√ÉO	04/06/2023
 
 --Criando as tabelas
 create table artista (
